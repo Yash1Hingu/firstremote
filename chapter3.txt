@@ -1,0 +1,1 @@
+`git init` command use for inite the git repositery in working directecory.

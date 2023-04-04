@@ -1,0 +1,3 @@
+`git status` command use for check the staging area files.
+`git log` command use for see all commits.
+`git commit -m "message"` command use for commite the staging area files.
