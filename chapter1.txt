@@ -1,0 +1,2 @@
+`start` command use for open the file using git bash.
+`Code . ` command use for open the file in the vs Code using git base.
