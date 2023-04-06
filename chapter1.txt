@@ -1,3 +1,4 @@
 `start` command use for open the file using git bash.
 `Code . ` command use for open the file in the vs Code using git base.
 `git init` command use for inite the git repositery.
+`git branch` see the how many current branches.
