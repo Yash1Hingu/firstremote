@@ -2,3 +2,5 @@
 `Code . ` command use for open the file in the vs Code using git base.
 `git init` command use for inite the git repositery.
 `git branch` see the how many current branches.
+`git branch branchname` create new branch.
+`git checkout branch-name` goto that branch.
